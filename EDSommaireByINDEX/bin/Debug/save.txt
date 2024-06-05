@@ -1,0 +1,48 @@
+YMAX :
+245
+YMIN :
+32
+X_SHEETNAME :
+30
+X_TITLE1 :
+55
+X_TITLE2 :
+100
+X_FUNCTION :
+247
+X_REVISION :
+293
+X_REVISION_DELTA :
+8
+Y_REVISION_HEADER :
+285
+Y_SPACING :
+6
+ROWS_PER_PAGE :
+36
+TEXT_HEIGHT :
+3
+SHEET_FORMAT :
+ED_DRAWING_INDEX
+SHEET_FORMAT_FIND :
+ED_REVISION
+SHEET_PREFIX :
+
+FIRSTSHEET_REVISION_INDEX :
+2
+SHEET_TITLE :
+
+AttributBySheet :
+A_Zeichnungsnummer
+SheetInfos1 :
+Titre (1)
+SheetInfos2 :
+Titre (2)
+SheetInfosRev :
+Revision
+SheetIndiceRev :
+A_RevAct
+Mode Auto :
+false
+MultiProjet :
+true

@@ -1,0 +1,17 @@
+C:\DEV\EDSommaireByINDEX\EDSommaireByINDEX\obj\Debug\EDSommaireByINDEX.csproj.AssemblyReference.cache
+C:\DEV\EDSommaireByINDEX\EDSommaireByINDEX\obj\Debug\EDSommaireByINDEX.csproj.SuggestedBindingRedirects.cache
+C:\DEV\EDSommaireByINDEX\EDSommaireByINDEX\obj\Debug\EDSommaireByINDEX.Form1.resources
+C:\DEV\EDSommaireByINDEX\EDSommaireByINDEX\obj\Debug\EDSommaireByINDEX.Properties.Resources.resources
+C:\DEV\EDSommaireByINDEX\EDSommaireByINDEX\obj\Debug\EDSommaireByINDEX.csproj.GenerateResource.cache
+C:\DEV\EDSommaireByINDEX\EDSommaireByINDEX\obj\Debug\EDSommaireByINDEX.csproj.CoreCompileInputs.cache
+C:\DEV\EDSommaireByINDEX\EDSommaireByINDEX\bin\Debug\EDSommaireByINDEX.exe.config
+C:\DEV\EDSommaireByINDEX\EDSommaireByINDEX\bin\Debug\EDSommaireByINDEX.exe
+C:\DEV\EDSommaireByINDEX\EDSommaireByINDEX\bin\Debug\EDSommaireByINDEX.pdb
+C:\DEV\EDSommaireByINDEX\EDSommaireByINDEX\bin\Debug\E3Lib.dll
+C:\DEV\EDSommaireByINDEX\EDSommaireByINDEX\obj\Debug\EDSommaireByINDEX.csproj.CopyComplete
+C:\DEV\EDSommaireByINDEX\EDSommaireByINDEX\obj\Debug\EDSommaireByINDEX.exe
+C:\DEV\EDSommaireByINDEX\EDSommaireByINDEX\obj\Debug\EDSommaireByINDEX.pdb
+C:\DEV\EDSommaireByINDEX\EDSommaireByINDEX\bin\Debug\EDSommaireByINDEX.exe.manifest
+C:\DEV\EDSommaireByINDEX\EDSommaireByINDEX\bin\Debug\EDSommaireByINDEX.application
+C:\DEV\EDSommaireByINDEX\EDSommaireByINDEX\obj\Debug\EDSommaireByINDEX.exe.manifest
+C:\DEV\EDSommaireByINDEX\EDSommaireByINDEX\obj\Debug\EDSommaireByINDEX.application
